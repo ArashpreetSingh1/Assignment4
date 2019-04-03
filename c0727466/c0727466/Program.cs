@@ -10,6 +10,7 @@ namespace c0727466
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a mistake! i wish i didn't do this");
         }
     }
 }
